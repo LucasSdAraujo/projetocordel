@@ -1,0 +1,19 @@
+@font-face {
+    font-family: PassionRegular;
+    src: url(../fonts/PassionOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: PassionBold;
+    src: url(../fonts/PassionOne-Bold.ttf);
+}
+
+@font-face {
+    font-family: PassinonBlack;
+    src: url(../fonts/PassionOne-Black.ttf);
+}
+
+@font-face {
+    font-family: Sriracha;
+    src: url(../fonts/Sriracha-Regular.ttf);
+}
